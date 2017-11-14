@@ -1,11 +1,15 @@
-body{
+body {
 
     margin: 0 auto;
     background-image: url("../img/bg1.jpg");
-    
 }
+
+h1 {
+    background-color: #FFFAF0;
+}
+
+/* Full-width input fields */
 input[type=text]{
-    height: 100px;
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
